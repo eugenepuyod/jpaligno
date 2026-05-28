@@ -1,5 +1,5 @@
 <script setup>
-import { Shield, Award, CheckCircle2, BookOpen, Scale, Landmark, ChevronRight } from 'lucide-vue-next'
+import { Shield, Award, CheckCircle2, BookOpen, Scale, Landmark, ChevronRight } from '@lucide/vue'
 
 const values = [
   {

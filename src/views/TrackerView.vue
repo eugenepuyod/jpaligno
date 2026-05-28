@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed } from 'vue'
-import { Scale, Search, ShieldCheck, ChevronRight, CheckCircle2, AlertCircle, FileText, Landmark, ClipboardList, RefreshCw, Star, Info, Play } from 'lucide-vue-next'
+import { Scale, Search, ShieldCheck, ChevronRight, CheckCircle2, AlertCircle, FileText, Landmark, ClipboardList, RefreshCw, Star, Info, Play } from '@lucide/vue'
 
 // Active tab between Case Tracker and Case Intake Questionnaire
 const activeTab = ref('tracker')

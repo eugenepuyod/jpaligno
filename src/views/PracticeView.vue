@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import { Scale, Users, Handshake, Gavel, Briefcase, Landmark, ShieldCheck, ChevronRight, X, Calendar, DollarSign, FileText, Clock } from 'lucide-vue-next'
+import { Scale, Users, Handshake, Gavel, Briefcase, Landmark, ShieldCheck, ChevronRight, X, Calendar, DollarSign, FileText, Clock } from '@lucide/vue'
 
 const selectedCategory = ref('all')
 const activeDrawer = ref(null)

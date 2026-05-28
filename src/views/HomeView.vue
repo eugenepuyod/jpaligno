@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 import { useRouter } from 'vue-router'
-import { Scale, ShieldCheck, Award, Handshake, Users, Gavel, Calendar, ArrowRight, Star, Quote, CheckCircle2 } from 'lucide-vue-next'
+import { Scale, ShieldCheck, Award, Handshake, Users, Gavel, Calendar, ArrowRight, Star, Quote, CheckCircle2 } from '@lucide/vue'
 
 const router = useRouter()
 

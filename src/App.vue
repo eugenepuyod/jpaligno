@@ -1,7 +1,7 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import { Menu, X, Scale, Phone, Mail, MapPin, ChevronRight, Award, Shield } from 'lucide-vue-next'
+import { Menu, X, Scale, Phone, Mail, MapPin, ChevronRight, Award, Shield } from '@lucide/vue'
 
 const router = useRouter()
 const route = useRoute()

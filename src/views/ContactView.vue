@@ -1,6 +1,6 @@
 <script setup>
 import { ref, onMounted } from 'vue'
-import { MapPin, Phone, Mail, Clock, Send, CheckCircle2, Shield } from 'lucide-vue-next'
+import { MapPin, Phone, Mail, Clock, Send, CheckCircle2, Shield } from '@lucide/vue'
 
 const formSubmitted = ref(false)
 const contactForm = ref({

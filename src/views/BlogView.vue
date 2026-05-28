@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed } from 'vue'
-import { Search, ChevronDown, Calendar, User, ArrowRight, BookOpen, AlertCircle, HelpCircle } from 'lucide-vue-next'
+import { Search, ChevronDown, Calendar, User, ArrowRight, BookOpen, AlertCircle, HelpCircle } from '@lucide/vue'
 
 // FAQ ACCORDION STATE
 const openFaqId = ref(null)

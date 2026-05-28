@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed } from 'vue'
-import { Calendar, Clock, Video, Phone, MapPin, ChevronRight, ChevronLeft, Check, Scale, DollarSign, Upload, FileText, AlertCircle } from 'lucide-vue-next'
+import { Calendar, Clock, Video, Phone, MapPin, ChevronRight, ChevronLeft, Check, Scale, DollarSign, Upload, FileText, AlertCircle } from '@lucide/vue'
 
 const currentStep = ref(1)
 const isSubmitted = ref(false)
